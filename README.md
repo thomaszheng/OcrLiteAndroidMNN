@@ -13,10 +13,10 @@ MNN 框架 [https://github.com/alibaba/MNN](https://github.com/alibaba/MNN)
 
 ## 总体说明
 
-1.依赖MNN版本为1.1.7
-2.MNN依赖方式为动态库，位于目录 `OcrLiteAndroidNcnn/OcrLibrary/src/mnn`,库文件较小直接在git中管理
-3.依赖opencv 3.4.10 
-4.模型已经转换为mnn格式，转换工具版本也是1.1.7版本，位于目录：
+1. 依赖MNN版本为1.1.7
+2. MNN依赖方式为动态库，位于目录 `OcrLiteAndroidNcnn/OcrLibrary/src/mnn`,库文件较小直接在git中管理
+3. 依赖opencv 3.4.10 
+4. 模型已经转换为mnn格式，转换工具版本也是1.1.7版本，位于目录：
 
 ```
 OcrLiteAndroidNcnn/OcrLibrary/src/main
